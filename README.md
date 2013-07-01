@@ -1,3 +1,5 @@
+Note: the instructions below (and the code) are dated.  Storing a copy for historical interest.
+
 06/08/2005
 
 Things have changed quite a bit. Here's my (Andrew's) "build rocketview for
